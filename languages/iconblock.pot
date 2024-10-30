@@ -1,0 +1,8846 @@
+# Copyright (C) 2023 Robiul Awal
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Icon Blocker 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/icon-blocker\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-16T19:44:03+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: iconblock\n"
+
+#. Plugin Name of the plugin
+msgid "Icon Blocker"
+msgstr ""
+
+#. Description of the plugin
+msgid "Icon Blocker is a gutenberg block to add icon anywhere in gutenberg editor."
+msgstr ""
+
+#. Author of the plugin
+msgid "Robiul Awal"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/robiulawal40/"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:8
+msgid "Accessibility"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:12
+msgid "Alert"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:16
+msgid "Animals"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:20
+#: src/icon/icons/index.js:1883
+msgid "Arrows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:24
+msgid "Audio & Video"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:28
+msgid "Automotive"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:32
+msgid "Autumn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:36
+msgid "Beverage"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:40
+msgid "Buildings"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:44
+msgid "Business"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:48
+msgid "Camping"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:52
+msgid "Charity"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:56
+msgid "Chat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:60
+#: src/icon/icons/font-awesome/icons.js:2413
+msgid "Chess"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:64
+msgid "Childhood"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:68
+msgid "Clothing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:72
+#: src/icon/icons/font-awesome/icons.js:2863
+#: src/icon/icons/index.js:789
+msgid "Code"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:76
+msgid "Communication"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:80
+msgid "Computers"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:84
+msgid "Construction"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:88
+msgid "Currency"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:92
+msgid "Date & Time"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:96
+msgid "Design"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:100
+msgid "Editors"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:104
+msgid "Education"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:108
+msgid "Emoji"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:112
+msgid "Energy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:116
+msgid "Files"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:120
+msgid "Finance"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:124
+msgid "Fitness"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:128
+msgid "Food"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:132
+msgid "Fruits & Vegetables"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:136
+msgid "Games"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:140
+msgid "Tabletop Gaming"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:144
+msgid "Genders"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:148
+msgid "Halloween"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:152
+#: src/icon/icons/font-awesome/icons.js:6554
+msgid "Hands"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:156
+msgid "Health"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:160
+msgid "Holiday"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:164
+#: src/icon/icons/font-awesome/icons.js:7016
+msgid "Hotel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:168
+msgid "Household"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:172
+#: src/icon/icons/font-awesome/icons.js:7236
+msgid "Images"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:176
+msgid "Interfaces"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:180
+msgid "Logistics"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:184
+msgid "Maps"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:188
+msgid "Maritime"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:192
+msgid "Marketing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:196
+msgid "Mathematics"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:200
+msgid "Medical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:204
+msgid "Moving"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:208
+#: src/icon/icons/font-awesome/icons.js:8959
+msgid "Music"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:212
+msgid "Objects"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:216
+msgid "Payments & Shopping"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:220
+msgid "Pharmacy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:224
+msgid "Political"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:228
+msgid "Religion"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:232
+msgid "Science"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:236
+msgid "Science Fiction"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:240
+msgid "Security"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:244
+#: src/icon/icons/font-awesome/icons.js:11166
+msgid "Shapes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:248
+msgid "Shopping"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:252
+msgid "Social"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:256
+msgid "Spinners"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:260
+msgid "Sports"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:264
+msgid "Spring"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:268
+msgid "Status"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:272
+msgid "Summer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:276
+msgid "Toggle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:280
+msgid "Travel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:284
+msgid "Users & People"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:288
+msgid "Vehicles"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:292
+msgid "Weather"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:296
+msgid "Winter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/categories.js:300
+msgid "Writing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9
+msgid "500px"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:19
+msgid "Accessible Icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:29
+msgid "Accusoft"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:39
+msgid "Acquisitions Incorporated"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:49
+msgid "Ad"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:59
+msgid "Address Book"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:69
+msgid "Address Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:79
+msgid "adjust"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:89
+msgid "App.net"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:99
+msgid "Adversal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:109
+msgid "affiliatetheme"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:119
+msgid "Air Freshener"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:129
+msgid "Airbnb"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:139
+msgid "Algolia"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:149
+msgid "align-center"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:159
+msgid "align-justify"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:169
+msgid "align-left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:179
+msgid "align-right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:189
+msgid "Alipay"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:199
+msgid "Allergies"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:209
+msgid "Amazon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:219
+msgid "Amazon Pay"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:229
+msgid "ambulance"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:246
+msgid "American Sign Language Interpreting"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:256
+msgid "Amilia"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:266
+msgid "Anchor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:276
+msgid "Android"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:286
+msgid "AngelList"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:296
+msgid "Angle Double Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:306
+msgid "Angle Double Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:316
+msgid "Angle Double Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:326
+msgid "Angle Double Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:336
+msgid "angle-down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:346
+msgid "angle-left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:356
+msgid "angle-right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:366
+msgid "angle-up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:376
+msgid "Angry Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:386
+msgid "Angry Creative"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:396
+msgid "Angular"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:406
+msgid "Ankh"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:416
+msgid "App Store"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:426
+msgid "iOS App Store"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:436
+msgid "Apper Systems AB"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:446
+msgid "Apple"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:464
+msgid "Fruit Apple"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:474
+msgid "Apple Pay"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:484
+#: src/icon/icons/index.js:603
+msgid "Archive"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:494
+msgid "Archway"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:504
+msgid "Alternate Arrow Circle Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:514
+msgid "Alternate Arrow Circle Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:524
+msgid "Alternate Arrow Circle Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:534
+msgid "Alternate Arrow Circle Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:544
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:554
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:564
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:574
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:584
+msgid "arrow-down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:594
+msgid "arrow-left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:604
+msgid "arrow-right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:614
+msgid "arrow-up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:624
+msgid "Alternate Arrows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:634
+msgid "Alternate Arrows Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:644
+msgid "Alternate Arrows Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:654
+msgid "Artstation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:664
+msgid "Assistive Listening Systems"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:674
+msgid "asterisk"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:684
+msgid "Asymmetrik, Ltd."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:694
+msgid "At"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:704
+msgid "Atlas"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:714
+msgid "Atlassian"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:724
+msgid "Atom"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:741
+msgid "Audible"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:751
+msgid "Audio Description"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:761
+msgid "Autoprefixer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:771
+msgid "avianex"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:781
+msgid "Aviato"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:791
+msgid "Award"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:801
+msgid "Amazon Web Services (AWS)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:811
+msgid "Baby"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:821
+msgid "Baby Carriage"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:831
+msgid "Backspace"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:841
+msgid "backward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:851
+msgid "Bacon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:861
+msgid "Bacteria"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:871
+msgid "Bacterium"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:881
+msgid "Bahá'í"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:891
+msgid "Balance Scale"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:901
+msgid "Balance Scale (Left-Weighted)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:911
+msgid "Balance Scale (Right-Weighted)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:921
+msgid "ban"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:931
+msgid "Band-Aid"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:941
+msgid "Bandcamp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:951
+msgid "barcode"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:961
+msgid "Bars"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:971
+msgid "Baseball Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:981
+msgid "Basketball Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:991
+msgid "Bath"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1001
+msgid "Battery Empty"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1011
+msgid "Battery Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1021
+msgid "Battery 1/2 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1031
+msgid "Battery 1/4 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1041
+msgid "Battery 3/4 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1051
+msgid "Battle.net"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1061
+msgid "Bed"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1078
+msgid "beer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1088
+msgid "Behance"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1098
+msgid "Behance Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1108
+msgid "bell"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1130
+msgid "Bell Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1148
+msgid "Bezier Curve"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1158
+msgid "Bible"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1168
+msgid "Bicycle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1178
+msgid "Biking"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1188
+msgid "BIMobject"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1198
+msgid "Binoculars"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1208
+msgid "Biohazard"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1218
+msgid "Birthday Cake"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1228
+msgid "Bitbucket"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1238
+msgid "Bitcoin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1248
+msgid "Bity"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1258
+msgid "Font Awesome Black Tie"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1268
+msgid "BlackBerry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1278
+msgid "Blender"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1288
+msgid "Blender Phone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1309
+msgid "Blind"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1319
+msgid "Blog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1329
+msgid "Blogger"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1339
+msgid "Blogger B"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1349
+#: src/icon/icons/font-awesome/icons.js:1359
+msgid "Bluetooth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1369
+msgid "bold"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1379
+msgid "Lightning Bolt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1389
+msgid "Bomb"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1399
+msgid "Bone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1409
+msgid "Bong"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1419
+msgid "book"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1429
+msgid "Book of the Dead"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1439
+msgid "Medical Book"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1449
+msgid "Book Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1459
+msgid "Book Reader"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1469
+msgid "bookmark"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1479
+msgid "Bootstrap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1489
+msgid "Border All"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1499
+msgid "Border None"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1509
+msgid "Border Style"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1519
+msgid "Bowling Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1529
+#: src/icon/icons/index.js:666
+msgid "Box"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1539
+msgid "Box Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1549
+msgid "Tissue Box"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1559
+msgid "Boxes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1569
+msgid "Braille"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1579
+msgid "Brain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1589
+msgid "Bread Slice"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1599
+msgid "Briefcase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1609
+msgid "Medical Briefcase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1619
+msgid "Broadcast Tower"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1629
+msgid "Broom"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1639
+#: src/icon/icons/index.js:671
+msgid "Brush"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1649
+msgid "BTC"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1659
+msgid "Buffer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1672
+#: src/icon/icons/index.js:676
+msgid "Bug"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1682
+msgid "Building"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1692
+msgid "bullhorn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1710
+msgid "Bullseye"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1720
+msgid "Burn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1730
+msgid "Büromöbel-Experte GmbH & Co. KG."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1740
+msgid "Bus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1750
+msgid "Bus Alt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1760
+msgid "Business Time"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1770
+msgid "Buy n Large"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1780
+msgid "BuySellAds"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1790
+msgid "Calculator"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1800
+#: src/icon/icons/index.js:693
+msgid "Calendar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1817
+msgid "Alternate Calendar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1827
+msgid "Calendar Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1837
+msgid "Calendar with Day Focus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1847
+msgid "Calendar Minus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1857
+msgid "Calendar Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1867
+msgid "Calendar Times"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1877
+msgid "Calendar with Week Focus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1887
+msgid "camera"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1897
+msgid "Retro Camera"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1907
+msgid "Campground"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1917
+msgid "Canadian Maple Leaf"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1927
+msgid "Candy Cane"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1937
+msgid "Cannabis"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1947
+msgid "Capsules"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1957
+msgid "Car"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1967
+msgid "Alternate Car"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1977
+msgid "Car Battery"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1987
+msgid "Car Crash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:1997
+msgid "Car Side"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2007
+msgid "Caravan"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2017
+msgid "Caret Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2027
+msgid "Caret Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2037
+msgid "Caret Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2047
+msgid "Caret Square Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2057
+msgid "Caret Square Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2067
+msgid "Caret Square Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2077
+msgid "Caret Square Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2087
+msgid "Caret Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2097
+msgid "Carrot"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2107
+msgid "Shopping Cart Arrow Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2117
+msgid "Add to Shopping Cart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2127
+msgid "Cash Register"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2137
+msgid "Cat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2147
+msgid "Amazon Pay Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2157
+msgid "American Express Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2167
+msgid "Apple Pay Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2177
+msgid "Diner's Club Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2187
+msgid "Discover Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2197
+msgid "JCB Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2207
+msgid "MasterCard Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2217
+msgid "Paypal Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2227
+msgid "Stripe Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2237
+msgid "Visa Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2247
+msgid "Centercode"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2257
+msgid "Centos"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2267
+msgid "certificate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2283
+msgid "Chair"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2293
+msgid "Chalkboard"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2303
+msgid "Chalkboard Teacher"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2313
+msgid "Charging Station"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2323
+msgid "Area Chart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2333
+msgid "Bar Chart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2343
+msgid "Line Chart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2353
+msgid "Pie Chart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2363
+#: src/icon/icons/index.js:727
+msgid "Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2373
+msgid "Check Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2383
+msgid "Double Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2393
+msgid "Check Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2403
+msgid "Cheese"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2423
+msgid "Chess Bishop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2433
+msgid "Chess Board"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2443
+msgid "Chess King"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2453
+msgid "Chess Knight"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2463
+msgid "Chess Pawn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2473
+msgid "Chess Queen"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2483
+msgid "Chess Rook"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2493
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2503
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2513
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2523
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2533
+msgid "chevron-down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2543
+msgid "chevron-left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2553
+msgid "chevron-right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2563
+msgid "chevron-up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2573
+msgid "Child"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2583
+msgid "Chrome"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2593
+msgid "Chromecast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2603
+msgid "Church"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2613
+msgid "Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2623
+msgid "Circle Notched"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2633
+msgid "City"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2643
+msgid "Medical Clinic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2653
+msgid "Clipboard"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2663
+msgid "Clipboard with Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2673
+msgid "Clipboard List"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2683
+msgid "Clock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2693
+msgid "Clone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2703
+msgid "Closed Captioning"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2713
+#: src/icon/icons/index.js:784
+msgid "Cloud"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2723
+msgid "Alternate Cloud Download"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2733
+msgid "Cloud with (a chance of) Meatball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2743
+msgid "Cloud with Moon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2753
+msgid "Cloud with Moon and Rain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2763
+msgid "Cloud with Rain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2773
+msgid "Cloud with Heavy Showers"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2783
+msgid "Cloud with Sun"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2793
+msgid "Cloud with Sun and Rain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2803
+msgid "Alternate Cloud Upload"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2813
+msgid "Cloudflare"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2823
+msgid "cloudscale.ch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2833
+msgid "Cloudsmith"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2843
+msgid "cloudversify"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2853
+msgid "Cocktail"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2873
+msgid "Code Branch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2883
+msgid "Codepen"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2893
+msgid "Codie Pie"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2903
+msgid "Coffee"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2922
+msgid "cog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2932
+msgid "cogs"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2942
+msgid "Coins"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2952
+#: src/icon/icons/index.js:811
+msgid "Columns"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2962
+msgid "comment"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2972
+msgid "Alternate Comment"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2982
+msgid "Comment Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:2992
+msgid "Comment Dots"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3002
+msgid "Alternate Medical Chat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3012
+msgid "Comment Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3022
+msgid "comments"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3032
+msgid "Comments Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3042
+msgid "Compact Disc"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3052
+msgid "Compass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3069
+msgid "Compress"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3079
+msgid "Alternate Compress"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3089
+msgid "Alternate Compress Arrows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3099
+msgid "Concierge Bell"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3109
+msgid "Confluence"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3119
+msgid "Connect Develop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3129
+msgid "Contao"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3139
+msgid "Cookie"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3149
+msgid "Cookie Bite"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3159
+msgid "Copy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3176
+msgid "Copyright"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3186
+msgid "Cotton Bureau"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3196
+msgid "Couch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3206
+msgid "cPanel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3216
+msgid "Creative Commons"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3226
+msgid "Creative Commons Attribution"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3236
+msgid "Creative Commons Noncommercial"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3246
+msgid "Creative Commons Noncommercial (Euro Sign)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3256
+msgid "Creative Commons Noncommercial (Yen Sign)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3266
+msgid "Creative Commons No Derivative Works"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3276
+msgid "Creative Commons Public Domain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3286
+msgid "Alternate Creative Commons Public Domain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3296
+msgid "Creative Commons Remix"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3306
+msgid "Creative Commons Share Alike"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3316
+msgid "Creative Commons Sampling"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3326
+msgid "Creative Commons Sampling +"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3336
+msgid "Creative Commons Share"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3346
+msgid "Creative Commons CC0"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3356
+msgid "Credit Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3366
+msgid "Critical Role"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3376
+msgid "crop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3386
+msgid "Alternate Crop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3396
+msgid "Cross"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3406
+msgid "Crosshairs"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3416
+msgid "Crow"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3426
+msgid "Crown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3444
+msgid "Crutch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3454
+msgid "CSS 3 Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3464
+msgid "Alternate CSS3 Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3474
+msgid "Cube"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3484
+msgid "Cubes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3494
+msgid "Cut"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3511
+msgid "Cuttlefish"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3521
+msgid "Dungeons & Dragons"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3531
+msgid "D&D Beyond"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3541
+msgid "dailymotion"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3551
+msgid "DashCube"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3561
+msgid "Database"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3571
+msgid "Deaf"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3581
+msgid "Deezer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3591
+msgid "Delicious"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3601
+msgid "Democrat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3611
+msgid "deploy.dog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3621
+msgid "Deskpro"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3631
+#: src/icon/icons/index.js:889
+msgid "Desktop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3641
+msgid "DEV"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3651
+msgid "deviantART"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3661
+msgid "Dharmachakra"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3671
+msgid "DHL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3688
+msgid "Diagnoses"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3698
+msgid "Diaspora"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3708
+msgid "Dice"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3718
+msgid "Dice D20"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3728
+msgid "Dice D6"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3738
+msgid "Dice Five"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3748
+msgid "Dice Four"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3758
+msgid "Dice One"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3768
+msgid "Dice Six"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3778
+msgid "Dice Three"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3788
+msgid "Dice Two"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3798
+msgid "Digg Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3808
+msgid "Digital Ocean"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3818
+msgid "Digital Tachograph"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3828
+msgid "Directions"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3838
+msgid "Discord"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3848
+msgid "Discourse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3858
+msgid "Disease"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3868
+msgid "Divide"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3878
+msgid "Dizzy Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3888
+msgid "DNA"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3898
+msgid "DocHub"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3908
+msgid "Docker"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3918
+msgid "Dog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3928
+msgid "Dollar Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3938
+msgid "Dolly"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3948
+msgid "Dolly Flatbed"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3958
+msgid "Donate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3968
+msgid "Door Closed"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3978
+msgid "Door Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3988
+msgid "Dot Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:3998
+msgid "Dove"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4008
+#: src/icon/icons/index.js:900
+msgid "Download"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4018
+msgid "Draft2digital"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4028
+msgid "Drafting Compass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4038
+msgid "Dragon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4048
+msgid "Draw Polygon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4058
+msgid "Dribbble"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4068
+msgid "Dribbble Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4078
+msgid "Dropbox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4088
+msgid "Drum"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4098
+msgid "Drum Steelpan"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4108
+msgid "Drumstick with Bite Taken Out"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4118
+msgid "Drupal Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4128
+msgid "Dumbbell"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4138
+msgid "Dumpster"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4148
+msgid "Dumpster Fire"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4171
+msgid "Dungeon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4181
+msgid "Dyalog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4191
+msgid "Earlybirds"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4201
+msgid "eBay"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4211
+msgid "Edge Browser"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4221
+msgid "Edge Legacy Browser"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4231
+#: src/icon/icons/index.js:906
+msgid "Edit"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4241
+msgid "Egg"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4251
+msgid "eject"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4261
+msgid "Elementor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4271
+msgid "Horizontal Ellipsis"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4281
+msgid "Vertical Ellipsis"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4291
+msgid "Ello"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4301
+msgid "Ember"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4311
+msgid "Galactic Empire"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4321
+msgid "Envelope"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4338
+msgid "Envelope Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4354
+msgid "Envelope Open-text"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4364
+msgid "Envelope Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4374
+msgid "Envira Gallery"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4384
+msgid "Equals"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4394
+msgid "eraser"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4411
+msgid "Erlang"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4421
+msgid "Ethereum"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4431
+msgid "Ethernet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4441
+msgid "Etsy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4451
+msgid "Euro Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4461
+msgid "Evernote"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4471
+msgid "Alternate Exchange"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4481
+msgid "exclamation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4491
+msgid "Exclamation Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4501
+msgid "Exclamation Triangle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4511
+msgid "Expand"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4521
+msgid "Alternate Expand"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4531
+msgid "Alternate Expand Arrows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4541
+msgid "ExpeditedSSL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4551
+msgid "Alternate External Link"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4561
+msgid "Alternate External Link Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4571
+msgid "Eye"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4589
+msgid "Eye Dropper"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4599
+msgid "Eye Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4616
+msgid "Facebook"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4626
+msgid "Facebook F"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4636
+msgid "Facebook Messenger"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4646
+msgid "Facebook Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4656
+msgid "Fan"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4666
+msgid "Fantasy Flight-games"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4676
+msgid "fast-backward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4686
+msgid "fast-forward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4696
+msgid "Faucet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4706
+msgid "Fax"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4716
+msgid "Feather"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4726
+msgid "Alternate Feather"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4736
+msgid "FedEx"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4746
+msgid "Fedora"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4756
+msgid "Female"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4766
+msgid "fighter-jet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4776
+msgid "Figma"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4786
+#: src/icon/icons/index.js:916
+msgid "File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4806
+msgid "Alternate File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4825
+msgid "Archive File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4835
+msgid "Audio File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4845
+msgid "Code File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4855
+msgid "File Contract"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4865
+msgid "File CSV"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4882
+msgid "File Download"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4892
+msgid "Excel File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4902
+msgid "File Export"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4912
+msgid "Image File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4922
+msgid "File Import"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4932
+msgid "File Invoice"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4942
+msgid "File Invoice with US Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4952
+msgid "Medical File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4962
+msgid "Alternate Medical File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4972
+msgid "PDF File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4982
+msgid "Powerpoint File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:4992
+msgid "File Prescription"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5002
+msgid "File Signature"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5012
+msgid "File Upload"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5022
+msgid "Video File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5032
+msgid "Word File"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5042
+msgid "Fill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5052
+msgid "Fill Drip"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5062
+msgid "Film"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5072
+msgid "Filter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5082
+msgid "Fingerprint"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5092
+msgid "fire"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5102
+msgid "Alternate Fire"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5112
+msgid "fire-extinguisher"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5122
+msgid "Firefox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5132
+msgid "Firefox Browser"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5142
+msgid "First Aid"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5152
+msgid "First Order"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5162
+msgid "Alternate First Order"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5172
+msgid "firstdraft"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5182
+msgid "Fish"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5192
+msgid "Raised Fist"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5202
+msgid "flag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5212
+msgid "flag-checkered"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5222
+msgid "United States of America Flag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5232
+msgid "Flask"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5242
+msgid "Flickr"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5252
+msgid "Flipboard"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5262
+msgid "Flushed Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5272
+msgid "Fly"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5282
+msgid "Folder"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5300
+msgid "Folder Minus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5310
+msgid "Folder Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5327
+msgid "Folder Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5337
+msgid "font"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5347
+#: src/icon/icons/index.js:1910
+msgid "Font Awesome"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5357
+msgid "Alternate Font Awesome"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5367
+msgid "Font Awesome Flag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5377
+msgid "Font Awesome Full Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5387
+msgid "Fonticons"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5397
+msgid "Fonticons Fi"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5407
+msgid "Football Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5417
+msgid "Fort Awesome"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5427
+msgid "Alternate Fort Awesome"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5437
+msgid "Forumbee"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5447
+msgid "forward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5457
+msgid "Foursquare"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5467
+msgid "freeCodeCamp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5477
+msgid "FreeBSD"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5487
+msgid "Frog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5497
+msgid "Frowning Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5507
+msgid "Frowning Face With Open Mouth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5517
+msgid "Fulcrum"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5527
+msgid "Funnel Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5537
+msgid "Futbol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5547
+msgid "Galactic Republic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5557
+msgid "Galactic Senate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5567
+msgid "Gamepad"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5577
+msgid "Gas Pump"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5587
+msgid "Gavel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5597
+msgid "Gem"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5607
+msgid "Genderless"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5617
+msgid "Get Pocket"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5627
+msgid "GG Currency"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5637
+msgid "GG Currency Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5647
+msgid "Ghost"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5657
+msgid "gift"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5674
+msgid "Gifts"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5684
+msgid "Git"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5694
+msgid "Git Alt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5704
+msgid "Git Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5714
+msgid "GitHub"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5724
+msgid "Alternate GitHub"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5734
+msgid "GitHub Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5744
+msgid "GitKraken"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5754
+msgid "GitLab"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5764
+msgid "Gitter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5774
+msgid "Glass Cheers"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5784
+msgid "Martini Glass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5794
+msgid "Alternate Glass Martini"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5804
+msgid "Glass Whiskey"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5814
+msgid "Glasses"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5824
+msgid "Glide"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5834
+msgid "Glide G"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5844
+#: src/icon/icons/index.js:1044
+msgid "Globe"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5854
+msgid "Globe with Africa shown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5864
+msgid "Globe with Americas shown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5874
+msgid "Globe with Asia shown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5884
+msgid "Globe with Europe shown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5894
+msgid "Gofore"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5904
+msgid "Golf Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5914
+msgid "Goodreads"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5924
+msgid "Goodreads G"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5934
+msgid "Google Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5944
+msgid "Google Drive"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5954
+msgid "Google Pay"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5964
+msgid "Google Play"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5974
+msgid "Google Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5984
+msgid "Google Plus G"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:5994
+msgid "Google Plus Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6004
+msgid "Google Wallet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6014
+msgid "Gopuram"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6024
+msgid "Graduation Cap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6034
+msgid "Gratipay (Gittip)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6044
+msgid "Grav"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6054
+msgid "Greater Than"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6064
+msgid "Greater Than Equal To"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6074
+msgid "Grimacing Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6084
+msgid "Grinning Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6094
+msgid "Alternate Grinning Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6104
+msgid "Grinning Face With Smiling Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6114
+msgid "Grinning Face With Sweat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6124
+msgid "Smiling Face With Heart-Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6134
+msgid "Grinning Squinting Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6144
+msgid "Rolling on the Floor Laughing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6154
+msgid "Star-Struck"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6164
+msgid "Face With Tears of Joy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6174
+msgid "Face With Tongue"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6184
+msgid "Squinting Face With Tongue"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6194
+msgid "Winking Face With Tongue"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6204
+msgid "Grinning Winking Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6214
+msgid "Grip Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6224
+msgid "Grip Lines"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6234
+msgid "Grip Lines Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6244
+msgid "Grip Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6254
+msgid "Gripfire, Inc."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6264
+msgid "Grunt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6274
+msgid "Guilded"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6284
+msgid "Guitar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6294
+msgid "Gulp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6304
+msgid "H Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6314
+msgid "Hacker News"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6324
+msgid "Hacker News Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6334
+msgid "Hackerrank"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6344
+msgid "Hamburger"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6354
+msgid "Hammer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6364
+msgid "Hamsa"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6374
+msgid "Hand Holding"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6384
+msgid "Hand Holding Heart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6394
+msgid "Hand Holding Medical Cross"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6404
+msgid "Hand Holding US Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6414
+msgid "Hand Holding Water"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6424
+msgid "Lizard (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6434
+msgid "Hand with Middle Finger Raised"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6444
+msgid "Paper (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6454
+msgid "Peace (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6464
+msgid "Hand Pointing Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6474
+msgid "Hand Pointing Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6484
+msgid "Hand Pointing Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6494
+msgid "Hand Pointing Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6504
+msgid "Pointer (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6514
+msgid "Rock (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6524
+msgid "Scissors (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6534
+msgid "Hand Sparkles"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6544
+msgid "Spock (Hand)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6564
+msgid "Helping Hands"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6574
+msgid "Hands Wash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6584
+msgid "Handshake"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6594
+msgid "Handshake Alternate Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6604
+msgid "Handshake Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6614
+msgid "Hanukiah"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6624
+msgid "Hard Hat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6634
+msgid "Hashtag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6644
+msgid "Cowboy Hat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6654
+msgid "Cowboy Hat Side"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6664
+msgid "Wizard's Hat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6674
+msgid "HDD"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6684
+msgid "Head Side Cough"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6694
+msgid "Head Side-cough-slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6704
+msgid "Head Side Mask"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6714
+msgid "Head Side Virus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6724
+msgid "heading"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6734
+msgid "headphones"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6744
+msgid "Alternate Headphones"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6754
+msgid "Headset"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6764
+msgid "Heart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6786
+msgid "Heart Broken"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6796
+msgid "Heartbeat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6806
+msgid "Helicopter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6816
+msgid "Highlighter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6826
+msgid "Hiking"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6836
+msgid "Hippo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6846
+msgid "Hips"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6856
+msgid "HireAHelper"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6866
+msgid "History"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6876
+msgid "Hive Blockchain Network"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6886
+msgid "Hockey Puck"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6896
+msgid "Holly Berry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6906
+msgid "home"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6916
+msgid "Hooli"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6926
+msgid "Hornbill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6936
+msgid "Horse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6946
+msgid "Horse Head"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6956
+msgid "hospital"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6966
+msgid "Alternate Hospital"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6976
+msgid "Hospital Symbol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6986
+msgid "Hospital with User"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:6996
+msgid "Hot Tub"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7006
+msgid "Hot Dog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7026
+msgid "Hotjar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7036
+msgid "Hourglass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7046
+msgid "Hourglass End"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7056
+msgid "Hourglass Half"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7066
+msgid "Hourglass Start"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7076
+msgid "Damaged House"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7086
+msgid "House User"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7096
+msgid "Houzz"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7106
+msgid "Hryvnia"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7116
+msgid "HTML 5 Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7126
+msgid "HubSpot"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7136
+msgid "I Beam Cursor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7146
+msgid "Ice Cream"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7156
+msgid "Icicles"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/edit.js:68
+#: src/icon/icons/font-awesome/icons.js:7166
+msgid "Icons"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7176
+msgid "Identification Badge"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7186
+msgid "Identification Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7196
+msgid "Alternate Identification Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7206
+msgid "iDeal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7216
+msgid "Igloo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7226
+#: src/icon/icons/index.js:1104
+msgid "Image"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7246
+msgid "IMDB"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7256
+msgid "inbox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7266
+msgid "Indent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7276
+msgid "Industry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7286
+msgid "Infinity"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7296
+#: src/icon/icons/index.js:1110
+msgid "Info"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7306
+msgid "Info Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7316
+msgid "Innosoft"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7326
+msgid "Instagram"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7336
+msgid "Instagram Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7346
+msgid "InstaLOD"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7360
+msgid "Intercom"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7370
+msgid "Internet-explorer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7380
+msgid "InVision"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7390
+msgid "ioxhost"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7400
+msgid "italic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7410
+msgid "itch.io"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7420
+msgid "iTunes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7430
+msgid "Itunes Note"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7440
+msgid "Java"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7450
+msgid "Jedi"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7460
+msgid "Jedi Order"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7470
+msgid "Jenkis"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7480
+msgid "Jira"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7490
+msgid "Joget"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7500
+msgid "Joint"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7510
+msgid "Joomla Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7520
+msgid "Journal of the Whills"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7530
+msgid "JavaScript (JS)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7540
+msgid "JavaScript (JS) Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7550
+msgid "jsFiddle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7560
+msgid "Kaaba"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7570
+msgid "Kaggle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7580
+msgid "key"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7590
+msgid "Keybase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7600
+msgid "Keyboard"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7610
+msgid "KeyCDN"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7620
+msgid "Khanda"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7630
+msgid "Kickstarter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7640
+msgid "Kickstarter K"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7650
+msgid "Kissing Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7660
+msgid "Kissing Face With Smiling Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7670
+msgid "Face Blowing a Kiss"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7680
+msgid "Kiwi Bird"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7690
+msgid "KORVUE"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7700
+msgid "Landmark"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7710
+msgid "Language"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7720
+msgid "Laptop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7730
+msgid "Laptop Code"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7740
+msgid "Laptop House"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7750
+msgid "Laptop Medical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7760
+msgid "Laravel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7770
+msgid "last.fm"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7780
+msgid "last.fm Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7790
+msgid "Grinning Face With Big Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7800
+msgid "Laugh Face with Beaming Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7810
+msgid "Laughing Squinting Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7820
+msgid "Laughing Winking Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7830
+msgid "Layer Group"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7840
+msgid "leaf"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7850
+msgid "Leanpub"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7860
+msgid "Lemon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7870
+msgid "Less"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7880
+msgid "Less Than"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7890
+msgid "Less Than Equal To"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7900
+msgid "Alternate Level Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7910
+msgid "Alternate Level Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7920
+msgid "Life Ring"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7930
+msgid "Lightbulb"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7947
+msgid "Line"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/LinkControl.js:62
+#: src/icon/icons/font-awesome/icons.js:7957
+#: src/icon/icons/index.js:1194
+msgid "Link"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7967
+msgid "LinkedIn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7977
+msgid "LinkedIn In"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7987
+msgid "Linode"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:7997
+msgid "Linux"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8007
+msgid "Turkish Lira Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8017
+#: src/icon/icons/index.js:1206
+msgid "List"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8027
+msgid "Alternate List"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8037
+msgid "list-ol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8047
+msgid "list-ul"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8057
+msgid "location-arrow"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8067
+msgid "lock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8077
+msgid "Lock Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8087
+msgid "Alternate Long Arrow Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8097
+msgid "Alternate Long Arrow Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8107
+msgid "Alternate Long Arrow Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8117
+msgid "Alternate Long Arrow Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8127
+msgid "Low Vision"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8137
+msgid "Luggage Cart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8147
+msgid "Lungs"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8157
+msgid "Lungs Virus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8167
+msgid "lyft"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8177
+msgid "Magento"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8187
+msgid "magic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8197
+msgid "magnet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8207
+msgid "Mail Bulk"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8217
+msgid "Mailchimp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8227
+msgid "Male"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8237
+msgid "Mandalorian"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8247
+msgid "Map"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8257
+msgid "Map Marked"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8267
+msgid "Alternate Map Marked"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8277
+msgid "map-marker"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8287
+msgid "Alternate Map Marker"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8297
+msgid "Map Pin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8307
+msgid "Map Signs"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8317
+msgid "Markdown"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8327
+msgid "Marker"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8337
+msgid "Mars"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8347
+msgid "Mars Double"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8357
+msgid "Mars Stroke"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8367
+msgid "Mars Stroke Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8377
+msgid "Mars Stroke Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8387
+msgid "Mask"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8397
+msgid "Mastodon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8407
+msgid "MaxCDN"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8417
+msgid "Material Design for Bootstrap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8427
+msgid "Medal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8437
+msgid "MedApps"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8447
+msgid "Medium"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8457
+msgid "Medium M"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8467
+msgid "medkit"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8477
+msgid "MRT"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8487
+msgid "Meetup"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8497
+msgid "Megaport"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8507
+msgid "Neutral Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8517
+msgid "Face Without Mouth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8527
+msgid "Face With Rolling Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8537
+msgid "Memory"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8547
+msgid "Mendeley"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8557
+msgid "Menorah"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8567
+msgid "Mercury"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8577
+msgid "Meteor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8587
+msgid "Micro.blog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8597
+msgid "Microchip"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8607
+msgid "microphone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8625
+msgid "Alternate Microphone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8642
+msgid "Alternate Microphone Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8652
+msgid "Microphone Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8669
+msgid "Microscope"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8679
+msgid "Microsoft"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8689
+msgid "minus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8699
+msgid "Minus Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8709
+msgid "Minus Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8719
+msgid "Mitten"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8729
+msgid "Mix"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8739
+msgid "Mixcloud"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8749
+msgid "Mixer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8759
+msgid "Mizuni"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8769
+msgid "Mobile Phone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8779
+msgid "Alternate Mobile"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8789
+msgid "MODX"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8799
+msgid "Monero"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8809
+msgid "Money Bill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8819
+msgid "Alternate Money Bill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8829
+msgid "Wavy Money Bill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8839
+msgid "Alternate Wavy Money Bill"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8849
+msgid "Money Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8859
+msgid "Alternate Money Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8869
+msgid "Monument"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8879
+msgid "Moon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8889
+msgid "Mortar Pestle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8899
+msgid "Mosque"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8909
+msgid "Motorcycle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8919
+msgid "Mountain"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8929
+msgid "Mouse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8939
+msgid "Mouse Pointer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8949
+msgid "Mug Hot"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8969
+msgid "Napster"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8979
+msgid "Neos"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:8989
+msgid "Wired Network"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9006
+msgid "Neuter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9016
+msgid "Newspaper"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9026
+msgid "Nimblr"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9036
+msgid "Node.js"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9046
+msgid "Node.js JS"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9056
+msgid "Not Equal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9066
+msgid "Medical Notes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9076
+msgid "npm"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9086
+msgid "NS8"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9096
+msgid "Nutritionix"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9106
+msgid "Object Group"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9116
+msgid "Object Ungroup"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9126
+msgid "Octopus Deploy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9136
+msgid "Odnoklassniki"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9146
+msgid "Odnoklassniki Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9156
+msgid "Oil Can"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9166
+msgid "Old Republic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9176
+msgid "Om"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9186
+msgid "OpenCart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9196
+msgid "OpenID"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9206
+msgid "Opera"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9216
+msgid "Optin Monster"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9226
+msgid "ORCID"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9236
+msgid "Open Source Initiative"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9246
+msgid "Otter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9256
+msgid "Outdent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9266
+msgid "page4 Corporation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9276
+msgid "Pagelines"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9295
+msgid "Pager"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9305
+msgid "Paint Brush"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9315
+msgid "Paint Roller"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9325
+msgid "Palette"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9335
+msgid "Palfed"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9345
+msgid "Pallet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9355
+msgid "Paper Plane"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9365
+msgid "Paperclip"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9375
+msgid "Parachute Box"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9385
+msgid "paragraph"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9395
+msgid "Parking"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9405
+msgid "Passport"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9415
+msgid "Pastafarianism"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9425
+msgid "Paste"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9442
+msgid "Patreon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9452
+msgid "pause"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9462
+msgid "Pause Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9472
+msgid "Paw"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9482
+msgid "Paypal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9492
+msgid "Peace"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9502
+msgid "Pen"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9519
+msgid "Alternate Pen"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9536
+msgid "Pen Fancy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9546
+msgid "Pen Nib"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9556
+msgid "Pen Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9566
+msgid "Alternate Pencil"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9584
+msgid "Pencil Ruler"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9594
+msgid "Penny Arcade"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9604
+msgid "People Arrows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9614
+msgid "People Carry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9624
+msgid "Hot Pepper"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9634
+msgid "PerByte"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9644
+#: src/icon/icons/index.js:1334
+msgid "Percent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9654
+msgid "Percentage"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9664
+msgid "Periscope"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9674
+msgid "Person Entering Booth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9684
+msgid "Phabricator"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9694
+msgid "Phoenix Framework"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9704
+msgid "Phoenix Squadron"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9714
+msgid "Phone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9731
+msgid "Alternate Phone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9748
+msgid "Phone Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9758
+msgid "Phone Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9768
+msgid "Alternate Phone Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9778
+msgid "Phone Volume"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9794
+msgid "Photo Video"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9804
+msgid "PHP"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9814
+msgid "Pied Piper Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9827
+msgid "Alternate Pied Piper Logo (Old)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9837
+msgid "Pied Piper Hat (Old)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9847
+msgid "Pied Piper PP Logo (Old)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9857
+msgid "Pied Piper Square Logo (Old)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9867
+msgid "Piggy Bank"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9877
+msgid "Pills"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9887
+msgid "Pinterest"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9897
+msgid "Pinterest P"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9907
+msgid "Pinterest Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9917
+msgid "Pizza Slice"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9927
+msgid "Place of Worship"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9937
+msgid "plane"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9947
+msgid "Plane Arrival"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9957
+msgid "Plane Departure"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9967
+msgid "Plane Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9985
+msgid "play"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:9995
+msgid "Play Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10005
+msgid "PlayStation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10015
+msgid "Plug"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10025
+msgid "plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10035
+#: src/icon/icons/index.js:1384
+msgid "Plus Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10045
+msgid "Plus Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10055
+msgid "Podcast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10065
+msgid "Poll"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10075
+msgid "Poll H"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10085
+msgid "Poo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10095
+msgid "Poo Storm"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10105
+msgid "Poop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10115
+msgid "Portrait"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10125
+msgid "Pound Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10135
+msgid "Power Off"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10145
+msgid "Pray"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10155
+msgid "Praying Hands"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10165
+msgid "Prescription"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10175
+msgid "Prescription Bottle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10185
+msgid "Alternate Prescription Bottle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10195
+msgid "print"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10212
+msgid "Procedures"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10222
+msgid "Product Hunt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10232
+msgid "Project Diagram"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10242
+msgid "Pump Medical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10252
+msgid "Pump Soap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10262
+msgid "Pushed"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10272
+msgid "Puzzle Piece"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10282
+msgid "Python"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10292
+msgid "QQ"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10302
+msgid "qrcode"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10312
+msgid "Question"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10322
+msgid "Question Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10332
+msgid "Quidditch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10342
+msgid "QuinScape"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10352
+msgid "Quora"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10362
+msgid "quote-left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10372
+msgid "quote-right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10382
+msgid "Quran"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10392
+msgid "R Project"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10402
+msgid "Radiation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10412
+msgid "Alternate Radiation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10422
+msgid "Rainbow"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10432
+msgid "random"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10442
+msgid "Raspberry Pi"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10452
+msgid "Ravelry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10462
+msgid "React"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10472
+msgid "ReactEurope"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10482
+msgid "ReadMe"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10492
+msgid "Rebel Alliance"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10502
+#: src/icon/icons/index.js:1519
+msgid "Receipt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10512
+msgid "Record Vinyl"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10522
+msgid "Recycle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10532
+msgid "red river"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10542
+msgid "reddit Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10552
+msgid "reddit Alien"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10562
+msgid "reddit Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10572
+msgid "Redhat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10582
+#: src/icon/icons/index.js:1524
+msgid "Redo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10592
+msgid "Alternate Redo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10602
+msgid "Registered Trademark"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10612
+msgid "Remove Format"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10622
+msgid "Renren"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10632
+msgid "Reply"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10642
+msgid "reply-all"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10652
+msgid "replyd"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10662
+msgid "Republican"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10672
+msgid "Researchgate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10682
+msgid "Resolving"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10692
+msgid "Restroom"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10702
+msgid "Retweet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10712
+msgid "Rev.io"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10722
+msgid "Ribbon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10732
+msgid "Ring"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10742
+msgid "road"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10752
+msgid "Robot"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10762
+msgid "rocket"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10772
+msgid "Rocket.Chat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10782
+msgid "Rockrms"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10792
+msgid "Route"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10802
+msgid "rss"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10812
+msgid "RSS Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10822
+msgid "Ruble Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10832
+msgid "Ruler"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10842
+msgid "Ruler Combined"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10852
+msgid "Ruler Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10862
+msgid "Ruler Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10872
+msgid "Running"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10882
+msgid "Indian Rupee Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10892
+msgid "Rust"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10902
+msgid "Crying Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10912
+msgid "Loudly Crying Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10922
+msgid "Safari"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10932
+msgid "Salesforce"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10942
+msgid "Sass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10952
+msgid "Satellite"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10962
+msgid "Satellite Dish"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10972
+msgid "Save"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10989
+msgid "SCHLIX"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:10999
+msgid "School"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11009
+msgid "Screwdriver"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11019
+msgid "Scribd"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11029
+msgid "Scroll"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11039
+msgid "Sd Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11049
+#: src/icon/icons/index.js:1586
+msgid "Search"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11059
+msgid "Search Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11069
+msgid "Search Location"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11079
+msgid "Search Minus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11089
+msgid "Search Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11099
+msgid "Searchengin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11109
+msgid "Seedling"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11126
+msgid "Sellcast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11136
+msgid "Sellsy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11146
+msgid "Server"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11156
+msgid "Servicestack"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11176
+#: src/icon/icons/index.js:1603
+msgid "Share"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11186
+msgid "Alternate Share"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11196
+msgid "Alternate Share Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11206
+msgid "Share Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11216
+msgid "Shekel Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11226
+msgid "Alternate Shield"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11236
+msgid "Shield Virus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11246
+msgid "Ship"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11256
+msgid "Shipping Fast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11266
+msgid "Shirts in Bulk"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11276
+msgid "Shoe Prints"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11286
+msgid "Shopify"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11296
+msgid "Shopping Bag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11306
+msgid "Shopping Basket"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11316
+msgid "shopping-cart"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11333
+msgid "Shopware"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11343
+msgid "Shower"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11353
+msgid "Shuttle Van"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11363
+msgid "Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11373
+msgid "Alternate Sign In"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11383
+msgid "Sign Language"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11393
+msgid "Alternate Sign Out"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11403
+msgid "signal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11413
+msgid "Signature"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11423
+msgid "SIM Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11433
+msgid "SimplyBuilt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11443
+msgid "Sink"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11453
+msgid "SISTRIX"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11463
+msgid "Sitemap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11473
+msgid "Sith"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11483
+msgid "Skating"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11493
+msgid "Sketch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11503
+msgid "Skiing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11513
+msgid "Skiing Nordic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11523
+msgid "Skull"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11533
+msgid "Skull & Crossbones"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11551
+msgid "skyatlas"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11561
+msgid "Skype"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11571
+msgid "Slack Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11581
+msgid "Slack Hashtag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11591
+msgid "Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11601
+msgid "Sleigh"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11611
+msgid "Horizontal Sliders"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11621
+msgid "Slideshare"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11631
+msgid "Smiling Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11641
+msgid "Beaming Face With Smiling Eyes"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11651
+msgid "Winking Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11661
+msgid "Smog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11671
+msgid "Smoking"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11681
+msgid "Smoking Ban"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11691
+msgid "SMS"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11701
+msgid "Snapchat"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11711
+msgid "Snapchat Ghost"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11721
+msgid "Snapchat Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11731
+msgid "Snowboarding"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11741
+msgid "Snowflake"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11751
+msgid "Snowman"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11761
+msgid "Snowplow"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11771
+msgid "Soap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11781
+msgid "Socks"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11791
+msgid "Solar Panel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11801
+msgid "Sort"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11811
+msgid "Sort Alphabetical Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11821
+msgid "Alternate Sort Alphabetical Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11831
+msgid "Sort Alphabetical Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11841
+msgid "Alternate Sort Alphabetical Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11851
+msgid "Sort Amount Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11861
+msgid "Alternate Sort Amount Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11871
+msgid "Sort Amount Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11881
+msgid "Alternate Sort Amount Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11891
+msgid "Sort Down (Descending)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11901
+msgid "Sort Numeric Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11911
+msgid "Alternate Sort Numeric Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11921
+msgid "Sort Numeric Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11931
+msgid "Alternate Sort Numeric Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11941
+msgid "Sort Up (Ascending)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11951
+msgid "SoundCloud"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11961
+msgid "Sourcetree"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11971
+msgid "Spa"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11981
+msgid "Space Shuttle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:11991
+msgid "Speakap"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12001
+msgid "Speaker Deck"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12011
+msgid "Spell Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12021
+msgid "Spider"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12031
+msgid "Spinner"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12041
+msgid "Splotch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12051
+msgid "Spotify"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12061
+msgid "Spray Can"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12071
+msgid "Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12081
+msgid "Square Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12091
+msgid "Alternate Square Root"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12101
+msgid "Squarespace"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12111
+msgid "Stack Exchange"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12121
+msgid "Stack Overflow"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12131
+msgid "Stackpath"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12141
+msgid "Stamp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12151
+msgid "Star"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12169
+msgid "Star and Crescent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12179
+msgid "star-half"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12189
+msgid "Alternate Star Half"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12199
+msgid "Star of David"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12209
+msgid "Star of Life"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12219
+msgid "StayLinked"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12229
+msgid "Steam"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12239
+msgid "Steam Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12249
+msgid "Steam Symbol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12259
+msgid "step-backward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12269
+msgid "step-forward"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12279
+msgid "Stethoscope"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12289
+msgid "Sticker Mule"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12299
+msgid "Sticky Note"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12309
+msgid "stop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12319
+msgid "Stop Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12329
+msgid "Stopwatch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12339
+msgid "Stopwatch 20"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12360
+#: src/icon/icons/index.js:1651
+msgid "Store"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12370
+msgid "Alternate Store"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12380
+msgid "Alternate Store Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12390
+msgid "Store Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12400
+msgid "Strava"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12410
+msgid "Stream"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12420
+msgid "Street View"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12430
+msgid "Strikethrough"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12440
+msgid "Stripe"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12450
+msgid "Stripe S"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12460
+msgid "Stroopwafel"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12470
+msgid "Studio Vinari"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12480
+msgid "StumbleUpon Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12490
+msgid "StumbleUpon Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12500
+msgid "subscript"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12510
+msgid "Subway"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12520
+msgid "Suitcase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12530
+msgid "Suitcase Rolling"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12540
+msgid "Sun"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12550
+msgid "Superpowers"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12560
+msgid "superscript"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12570
+msgid "Supple"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12580
+msgid "Hushed Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12590
+msgid "Suse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12600
+msgid "Swatchbook"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12610
+msgid "Swift"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12620
+msgid "Swimmer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12638
+msgid "Swimming Pool"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12648
+msgid "Symfony"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12658
+msgid "Synagogue"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12668
+msgid "Sync"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12678
+msgid "Alternate Sync"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12688
+msgid "Syringe"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12698
+msgid "table"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12708
+msgid "Table Tennis"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12718
+msgid "tablet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12728
+msgid "Alternate Tablet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12738
+msgid "Tablets"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12748
+msgid "Alternate Tachometer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12758
+msgid "tag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12768
+msgid "tags"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12778
+msgid "Tape"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12788
+msgid "Tasks"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12798
+msgid "Taxi"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12808
+msgid "TeamSpeak"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12818
+msgid "Teeth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12828
+msgid "Teeth Open"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12838
+msgid "Telegram"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12848
+msgid "Telegram Plane"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12858
+msgid "High Temperature"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12868
+msgid "Low Temperature"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12878
+msgid "Tencent Weibo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12888
+msgid "Tenge"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12898
+msgid "Terminal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12908
+msgid "text-height"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12918
+msgid "Text Width"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12928
+msgid "th"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12938
+msgid "th-large"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12948
+msgid "th-list"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12958
+msgid "The Red Yeti"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12968
+msgid "Theater Masks"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12978
+msgid "Themeco"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12988
+msgid "ThemeIsle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:12998
+msgid "Thermometer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13008
+msgid "Thermometer Empty"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13018
+msgid "Thermometer Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13028
+msgid "Thermometer 1/2 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13038
+msgid "Thermometer 1/4 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13048
+msgid "Thermometer 3/4 Full"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13058
+msgid "Think Peaks"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13068
+msgid "thumbs-down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13084
+msgid "thumbs-up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13100
+msgid "Thumbtack"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13110
+msgid "Alternate Ticket"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13120
+msgid "TikTok"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13130
+msgid "Times"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13140
+msgid "Times Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13150
+msgid "tint"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13160
+msgid "Tint Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13170
+msgid "Tired Face"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13180
+msgid "Toggle Off"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13190
+msgid "Toggle On"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13200
+msgid "Toilet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13210
+msgid "Toilet Paper"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13220
+msgid "Toilet Paper Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13230
+msgid "Toolbox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13240
+msgid "Tools"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13250
+msgid "Tooth"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13260
+msgid "Torah"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13270
+msgid "Torii Gate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13280
+msgid "Tractor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13290
+msgid "Trade Federation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13300
+msgid "Trademark"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13310
+msgid "Traffic Light"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13320
+msgid "Trailer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13330
+msgid "Train"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13340
+msgid "Tram"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13350
+msgid "Transgender"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13360
+msgid "Alternate Transgender"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13370
+#: src/icon/icons/index.js:1800
+msgid "Trash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13380
+msgid "Alternate Trash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13390
+msgid "Trash Restore"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13400
+msgid "Alternative Trash Restore"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13410
+msgid "Tree"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13420
+msgid "Trello"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13430
+msgid "trophy"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13440
+msgid "truck"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13457
+msgid "Truck Loading"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13467
+msgid "Truck Monster"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13477
+msgid "Truck Moving"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13487
+msgid "Truck Side"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13497
+msgid "T-Shirt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13507
+msgid "TTY"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13517
+msgid "Tumblr"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13527
+msgid "Tumblr Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13537
+msgid "Television"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13554
+msgid "Twitch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13564
+msgid "Twitter"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13574
+msgid "Twitter Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13584
+msgid "Typo3"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13594
+msgid "Uber"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13604
+msgid "Ubuntu"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13614
+msgid "UIkit"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13624
+msgid "Umbraco"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13634
+msgid "Umbrella"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13644
+msgid "Umbrella Beach"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13654
+msgid "Uncharted Software"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13664
+msgid "Underline"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13674
+#: src/icon/icons/index.js:1822
+msgid "Undo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13684
+msgid "Alternate Undo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13694
+msgid "Uniregistry"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13704
+msgid "Unity 3D"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13714
+msgid "Universal Access"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13724
+msgid "University"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13734
+msgid "unlink"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13744
+msgid "unlock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13754
+msgid "Alternate Unlock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13764
+msgid "Unsplash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13774
+msgid "Untappd"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13784
+#: src/icon/icons/index.js:1845
+msgid "Upload"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13794
+msgid "UPS"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13804
+msgid "USB"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13814
+msgid "User"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13824
+msgid "Alternate User"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13834
+msgid "Alternate User Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13844
+msgid "User Astronaut"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13854
+msgid "User Check"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13864
+msgid "User Circle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13874
+msgid "User Clock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13884
+msgid "User Cog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13894
+msgid "User Edit"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13904
+msgid "User Friends"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13914
+msgid "User Graduate"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13924
+msgid "User Injured"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13934
+msgid "User Lock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13944
+msgid "Doctor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13954
+msgid "User Minus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13964
+msgid "User Ninja"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13974
+msgid "Nurse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13984
+msgid "User Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:13994
+msgid "User Secret"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14004
+msgid "User Shield"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14014
+msgid "User Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14024
+msgid "User Tag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14034
+msgid "User Tie"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14044
+msgid "Remove User"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14054
+msgid "Users"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14064
+msgid "Users Cog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14074
+msgid "Users Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14084
+msgid "United States Postal Service"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14094
+msgid "us-Sunnah Foundation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14104
+msgid "Utensil Spoon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14114
+msgid "Utensils"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14124
+msgid "Vaadin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14134
+msgid "Vector Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14144
+msgid "Venus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14154
+msgid "Venus Double"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14164
+msgid "Venus Mars"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14174
+msgid "vest"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14184
+msgid "vest-patches"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14194
+msgid "Viacoin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14204
+msgid "Viadeo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14214
+msgid "Viadeo Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14224
+msgid "Vial"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14234
+msgid "Vials"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14244
+msgid "Viber"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14254
+#: src/icon/icons/index.js:1858
+msgid "Video"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14264
+msgid "Video Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14274
+msgid "Vihara"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14284
+#: src/icon/icons/font-awesome/icons.js:14304
+msgid "Vimeo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14294
+msgid "Vimeo Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14314
+msgid "Vine"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14324
+msgid "Virus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14334
+msgid "Virus Slash"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14344
+msgid "Viruses"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14354
+msgid "VK"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14364
+msgid "VNV"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14374
+msgid "Voicemail"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14384
+msgid "Volleyball Ball"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14394
+msgid "Volume Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14404
+msgid "Volume Mute"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14414
+msgid "Volume Off"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14424
+msgid "Volume Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14434
+msgid "Vote Yea"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14444
+msgid "Cardboard VR"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14454
+msgid "Vue.js"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14464
+msgid "Walking"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14474
+msgid "Wallet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14484
+msgid "Warehouse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14494
+msgid "Watchman Monitoring"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14504
+msgid "Water"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14514
+msgid "Square Wave"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14524
+msgid "Waze"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14534
+msgid "Weebly"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14544
+msgid "Weibo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14554
+msgid "Weight"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14564
+msgid "Hanging Weight"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14574
+msgid "Weixin (WeChat)"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14584
+msgid "What's App"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14594
+msgid "What's App Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14604
+msgid "Wheelchair"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14622
+msgid "WHMCS"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14632
+msgid "WiFi"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14649
+msgid "Wikipedia W"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14659
+msgid "Wind"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14669
+msgid "Window Close"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14679
+msgid "Window Maximize"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14689
+msgid "Window Minimize"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14699
+msgid "Window Restore"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14709
+msgid "Windows"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14719
+msgid "Wine Bottle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14729
+msgid "Wine Glass"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14739
+msgid "Alternate Wine Glas"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14749
+msgid "Wix"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14759
+msgid "Wizards of the Coast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14769
+msgid "Wodu"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14779
+msgid "Wolf Pack Battalion"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14789
+msgid "Won Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14799
+msgid "WordPress Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14809
+msgid "Wordpress Simple"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14819
+msgid "WPBeginner"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14829
+msgid "WPExplorer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14839
+msgid "WPForms"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14849
+msgid "wpressr"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14859
+msgid "Wrench"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14869
+msgid "X-Ray"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14879
+msgid "Xbox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14889
+msgid "Xing"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14899
+msgid "Xing Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14909
+msgid "Y Combinator"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14919
+msgid "Yahoo Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14929
+msgid "Yammer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14939
+msgid "Yandex"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14949
+msgid "Yandex International"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14959
+msgid "Yarn"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14969
+msgid "Yelp"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14979
+msgid "Yen Sign"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14989
+msgid "Yin Yang"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:14999
+msgid "Yoast"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:15009
+msgid "YouTube"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:15019
+msgid "YouTube Square"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/font-awesome/icons.js:15029
+msgid "Zhihu"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:562
+msgid "Add Card"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:567
+msgid "Add Submenu"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:573
+msgid "Align Center"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:579
+msgid "Align Justify"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:585
+msgid "Align Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:591
+msgid "Align None"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:597
+msgid "Align Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:609
+msgid "Arrow Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:615
+msgid "Arrow Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:621
+msgid "Arrow Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:627
+msgid "Arrow Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:633
+msgid "At Symbol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:638
+msgid "Aspect Ratio"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:644
+msgid "Audio"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:650
+msgid "Backup"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:655
+msgid "Block Default"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:661
+msgid "Block Table"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:681
+msgid "Button"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:687
+msgid "Buttons"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:699
+msgid "Cancel - Circle Filled"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:704
+msgid "Capture Photo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:710
+msgid "Capture Video"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:716
+msgid "Category"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:722
+msgid "Chart Bar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:732
+msgid "Chevron Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:738
+msgid "Chevron Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:744
+msgid "Chevron Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:750
+msgid "Chevron Right - Small"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:756
+msgid "Chevron Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:762
+msgid "Classic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:768
+msgid "Close"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:773
+msgid "Close - Small"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:778
+msgid "Cloud Upload"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:795
+msgid "Cog"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:800
+msgid "Color"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:805
+msgid "Column"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:817
+msgid "Comment"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:823
+msgid "Comment Author Avatar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:829
+msgid "Comment Author Name"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:835
+msgid "Comment Content"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:841
+msgid "Comment Edit Link"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:847
+msgid "Comment Reply Link"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:853
+msgid "Cover"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:859
+msgid "Create"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:864
+msgid "Crop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:869
+msgid "Currency Dollar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:874
+msgid "Currency Euro"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:879
+msgid "Currency Pound"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:884
+msgid "Custom Post Type"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:895
+msgid "Drag Handle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:911
+msgid "External"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:921
+msgid "Flip Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:926
+msgid "Flip Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:931
+msgid "Format Bold"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:937
+msgid "Format Capitalize"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:943
+msgid "Format Indent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:949
+msgid "Format Indent RTL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:954
+msgid "Format Italic"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:960
+msgid "Format List Bullets"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:966
+msgid "Format List Bullets RTL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:972
+msgid "Format List Numbered"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:978
+msgid "Format List Numbered RTL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:984
+msgid "Format LTR"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:990
+msgid "Format Lowercase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:996
+msgid "Format Outdent"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1002
+msgid "Format Outdent RTL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1008
+msgid "Format RTL"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1014
+msgid "Format Strikethrough"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1020
+msgid "Format Underline"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1026
+msgid "Format Uppercase"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1032
+msgid "Fullscreen"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1038
+msgid "Gallery"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1049
+msgid "Grid"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1054
+msgid "Group"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1060
+msgid "Handle"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1065
+msgid "Heading"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1071
+msgid "Help"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1076
+msgid "Help - Filled"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1081
+msgid "Inbox"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1086
+msgid "Institution"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1091
+msgid "Home"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1097
+msgid "HTML"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1115
+msgid "Insert After"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1121
+msgid "Insert Before"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1127
+msgid "Justify Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1133
+msgid "Justify Center"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1139
+msgid "Justify Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1145
+msgid "Justify Space Between"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1151
+msgid "Key"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1156
+msgid "Keyboard Close"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1162
+msgid "Keyboard Return"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1168
+msgid "Layout"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1173
+msgid "Lifesaver"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1200
+msgid "Link Off"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1212
+msgid "List View"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1218
+msgid "Lock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1224
+msgid "Login"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1229
+msgid "Loop"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1235
+msgid "Map Marker"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1240
+#: src/icon/icons/index.js:1903
+msgid "Media"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1246
+msgid "Media & Text"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1252
+msgid "Megaphone"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1257
+msgid "Menu"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1262
+msgid "Mobile"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1268
+msgid "More"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1273
+msgid "More Horizontal"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1278
+msgid "More Horizontal - Mobile"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1283
+msgid "More Vertical"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1288
+msgid "Move To"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1294
+msgid "Navigation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1299
+msgid "Overlay Text"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1304
+msgid "Page Break"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1309
+msgid "Custom Link"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1314
+msgid "Page"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1319
+msgid "Pages"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1324
+msgid "Paragraph"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1329
+msgid "Payment"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1339
+msgid "Position Center"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1344
+msgid "Position Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1349
+msgid "Position Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1359
+msgid "Pencil"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1364
+msgid "People"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1369
+msgid "Pin"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1374
+msgid "Plugins"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1379
+msgid "Plus Circle - Filled"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1389
+msgid "Plus"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1394
+msgid "Post Author"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1400
+msgid "Post Categories"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1406
+msgid "Post Content"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1412
+msgid "Post Comments"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1418
+msgid "Post Comment Count"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1423
+msgid "Post Comments Form"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1429
+msgid "Post Date"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1435
+msgid "Post Excerpt"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1441
+msgid "Post Featured Image"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1447
+msgid "Post List"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1453
+msgid "Post Terms"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1459
+msgid "Previous"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1465
+msgid "Next"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1471
+msgid "Preformatted"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1476
+msgid "Pull Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1481
+msgid "Pull Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1486
+msgid "Pull Quote"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1491
+msgid "Query Pagination"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1496
+msgid "Query Pagination Next"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1502
+msgid "Query Pagination Numbers"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1507
+msgid "Query Pagination Previous"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1513
+msgid "Quote"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1530
+msgid "Remove Bug"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/MediaReplaceControl.js:21
+#: src/icon/icons/index.js:1540
+msgid "Replace"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1546
+msgid "Reset"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1552
+msgid "Resize Corner"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1558
+msgid "Reusable Block"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1564
+msgid "Rotate Left"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1570
+msgid "Rotate Right"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1581
+msgid "RSS"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1592
+msgid "Separator"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1598
+msgid "Settings"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1608
+msgid "Shield"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1613
+msgid "Shortcode"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1619
+msgid "Site Logo"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1626
+msgid "Sparkles"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1631
+msgid "Stack"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1636
+msgid "Star Empty"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1641
+msgid "Star Filled"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1646
+msgid "Star Half"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1656
+msgid "Stretch Full Width"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1662
+msgid "Styles"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1668
+msgid "Shipping"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1674
+msgid "Stretch Wide"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1680
+msgid "Subscript"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1686
+msgid "Superscript"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1692
+msgid "Swatch"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1697
+msgid "Symbol"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1702
+msgid "Symbol - Filled"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1707
+msgid "Table Column After"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1713
+msgid "Table Column Before"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1719
+msgid "Table Column Delete"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1725
+msgid "Table Row After"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1731
+msgid "Table Row Before"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1737
+msgid "Table Row Delete"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1743
+msgid "Table"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1748
+msgid "Tag"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1753
+msgid "Term Description"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1759
+msgid "Footer"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1764
+msgid "Header"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1769
+msgid "Sidebar"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1774
+msgid "Text Color"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1779
+msgid "Tablet"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1785
+msgid "Title"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1790
+msgid "Tip"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1795
+msgid "Tool"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1805
+msgid "Trending Down"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1811
+msgid "Trending Up"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1817
+msgid "Typography"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1828
+msgid "Ungroup"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1834
+msgid "Unlock"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1840
+msgid "Update"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1852
+msgid "Verse"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1864
+msgid "Warning"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1869
+msgid "Widget"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1878
+msgid "WordPress"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1887
+msgid "Blocks"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1891
+msgid "Devices"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1895
+msgid "Editor"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/icons/index.js:1899
+msgid "Logos"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/ColorSettings.js:39
+msgid "Color Settings"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/ColorSettings.js:47
+msgid "Icon Color"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/ColorSettings.js:53
+msgid "Icon Hover Color"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/ColorSettings.js:62
+msgid "Icon Background"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/ColorSettings.js:73
+msgid "Icon Hover Background"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/inspector.js:50
+msgid "Icon Size"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/inspector.js:60
+msgid "Rotation"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/inspector.js:79
+msgid "Border Radius"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/MediaReplaceControl.js:33
+msgid "Open Icon Library"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/MediaReplaceControl.js:43
+msgid "Change Custom SVG"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/MediaReplaceControl.js:53
+msgid "Clear icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/Placeholder.js:19
+msgid "Icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/Placeholder.js:20
+msgid "Choose an icon from the library or insert custom svg"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/Placeholder.js:27
+msgid "Icon Library"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/Placeholder.js:30
+msgid "Insert Custom SVG"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/icon-library/LibraryContent.js:88
+msgid "No icons found."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/icon-library/LibrarySidebar.js:53
+msgid "Search Icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:48
+msgid "Custom Icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:55
+msgid "Custom icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:61
+msgid "Paste the SVG code for your custom icon."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:79
+msgid "Preview size"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:91
+msgid "The icon you inserted is not a valid SVG format or contains non-SVG elements."
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:100
+msgid "Clear custom icon"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:105
+msgid "Clear"
+msgstr ""
+
+#: build/icon/index.js:1
+#: src/icon/components/CustomSvgInserter.js:108
+#: src/icon/components/CustomSvgInserter.js:113
+msgid "Insert custom icon"
+msgstr ""

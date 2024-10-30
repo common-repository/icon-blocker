@@ -1,0 +1,44 @@
+{
+	"name": "icon-blocker",
+	"version": "0.1.0",
+	"description": "Example block scaffolded with Create Block tool.",
+	"author": "The WordPress Contributors",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "npm-run-all --sequential wpbuild tailwindbuild",
+		"start": "npm-run-all --parallel wpstart tailwindwatch",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"wp-env": "wp-env start",
+		"dev": "npm-run-all --sequential \"wp-env start\" preview",
+		"preview": "npm-run-all --parallel sync wpstart",
+		"sync:old": "browser-sync start -p 'http://localhost:8888/?page_id=2' --files '**/*.php' './src/**/*' './assets'",
+		"sync": "browser-sync start --config bs-config.js",
+		"wpbuild": "wp-scripts build",
+		"wpstart": "wp-scripts start",
+		"tailwindbuild": "tailwindcss -i ./src/style.css -o ./assets/style.css --postcss --minify",
+		"tailwindwatch": "tailwindcss -i ./src/style.css -o ./assets/style.css --watch --postcss --minify",
+		"git": "git add . && git commit -m \"regular update\" && git push origin main"
+	},
+	"files": [
+		"icon-blocker.php",
+		"readme.txt",
+		"build",
+		"languages"
+	],
+	"devDependencies": {
+		"@wordpress/scripts": "^26.9.0",
+		"autoprefixer": "^10.4.14",
+		"npm-run-all": "^4.1.5",
+		"postcss-nested": "^6.0.1",
+		"tailwindcss": "^3.3.3",
+		"webpack-shell-plugin": "^0.5.0"
+	},
+	"dependencies": {
+		"browser-sync": "^2.29.3"
+	}
+}

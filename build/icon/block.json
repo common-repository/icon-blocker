@@ -1,0 +1,89 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "iconblock/icon",
+  "version": "0.1.0",
+  "title": "Icon",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "The Icon will create.....",
+  "attributes": {
+    "borderRadius": {
+      "type": "string",
+      "default": "50%"
+    },
+    "padding": {
+      "type": "object"
+    },
+    "margin": {
+      "type": "object"
+    },
+    "icon": {
+      "type": "object",
+      "default": {}
+    },
+    "svgIcon": {
+      "type": "string",
+      "default": ""
+    },
+    "size": {
+      "type": "string",
+      "default": "40px"
+    },
+    "iconColor": {
+      "type": "string",
+      "default": null
+    },
+    "iconHoverColor": {
+      "type": "string",
+      "default": null
+    },
+    "iconBackground": {
+      "type": "string",
+      "default": null
+    },
+    "iconHoverBackground": {
+      "type": "string",
+      "default": null
+    },
+    "iconGradientBackground": {
+      "type": "string",
+      "default": null
+    },
+    "iconHoverGradientBackground": {
+      "type": "string",
+      "default": null
+    },
+    "justification": {
+      "type": "string",
+      "default": "center"
+    },
+    "linkUrl": {
+      "type": "string"
+    },
+    "linkRel": {
+      "type": "string"
+    },
+    "linkTarget": {
+      "type": "string"
+    },
+    "iconRotation": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "supports": {
+    "html": false,
+    "align": [
+      "left",
+      "right",
+      "full"
+    ],
+    "anchor": true
+  },
+  "textdomain": "alpha-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}
